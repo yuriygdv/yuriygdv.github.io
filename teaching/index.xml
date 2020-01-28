@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings | Yuriy Davydenko</title>
+    <link>/teaching/</link>
+      <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teachings</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Teachings</title>
+      <link>/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Policy Data Analysis</title>
+      <link>/teaching/data-analysis-4041-external/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/teaching/data-analysis-4041-external/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to Policy Analysis</title>
+      <link>/teaching/policy-analysis-4061-internal/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/teaching/policy-analysis-4061-internal/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;“U.S. Supreme Court Justice Potter Stewart famously commented in his concurring opinion in Jacobellis v. Ohio (1964) that it was unlikely he could ever intelligibly define hard-core pornography, “but I know it when I see it.” Public policy is like that; an intuitive concept that is maddeningly difficult to precisely define.“&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“there is general agreement that public policy includes the process of making choices and the outcomes or actions of particular decisions; that what makes public policy “public” is that these choices or actions are backed by the coercive powers of the state; and that at its core, public policy is a response to a perceived problem.” —Smith &amp;amp; Larimer, 2009&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This is an introductory course covering basic concepts and principles of policy analysis. The purpose of this course is to provide a foundation in the theory, process, and presentation of policy analysis. The course will familiarize students with 1) policy analysis as a profession 2) the conceptual foundations of the rationales for public policy 3) a systematic approach to addressing policy problems 3) analytical techniques for policy analysis.&lt;/p&gt;
+&lt;p&gt;At the end of the course, students should be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;think critically and systematically about public policy&lt;/li&gt;
+&lt;li&gt;understand how to identify and frame policy problems&lt;/li&gt;
+&lt;li&gt;understand how to organize policy analysis&lt;/li&gt;
+&lt;li&gt;understand the characteristics of different policy alternatives&lt;/li&gt;
+&lt;li&gt;apply analytical techniques for solving policy problems&lt;/li&gt;
+&lt;li&gt;understand limitations of policy analysis&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Governmental Budgeting</title>
+      <link>/teaching/gov-budgeting-3831-internal/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/teaching/gov-budgeting-3831-internal/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;“Public budgeting, at its core, is democracy in action” —Lewis &amp;amp; Hildreth, 2013&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Budget is government in miniature – a budget outlines a government’s scope of responsibilities, defines its relationship with citizens, and reveals how the government plans to extract resources from private citizens to fund what services and to achieve what goals” —Franklin, Ho, &amp;amp; Ebdon, 2009&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The nature, scale, and complexity of government activities make it hard to rationally and efficiently allocate resources so that the value the public gets for a tax dollar is maximized. In a complex pluralist system, the rationality itself is multifaceted. Maintaining balanced budgets is an important goal for government decision makers at all levels. Using budgeting as an instrument, the public has to be able to satisfy its service demands to the extent it can afford. Therefore, avoiding budget deficits (unless there are well justified reasons to do it occasionally) along with minimizing overtaxing is, in general, a good governance practice. Having no negative budget balances, however, doesn’t mean for budgeters that there is nothing to worry about. Problematic situations in budgeting seldom emerge overnight: they are likely to be preceded by some structural issues and measurable trends. Detecting such trends can help decision makers approach budgeting questions with better understanding of conditions under which a government will operate.&lt;/p&gt;
+&lt;p&gt;This course examines political, technical, and managerial aspects of resource allocation in American public sector. The emphasis in this course is on the role of budgets and budget processes in determining public policies and on how budgetary decisions are made in the democratic context to meet the public’s needs.&lt;/p&gt;
+&lt;p&gt;This class is supposed to meet the needs of students with a range of different interests and goals. The content is rich and interesting for students with broader policy interests. There are also skill-building cases and exercises useful for anyone seeking to make informed government budget decisions.&lt;/p&gt;
+&lt;p&gt;Learning Objectives:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand the role of budgets and budget processes in democracy, policy making, and implementation.&lt;/li&gt;
+&lt;li&gt;Be able to describe the process by which government budgets are compiled, enacted and implemented.&lt;/li&gt;
+&lt;li&gt;Understand budget challenges and be able to describe the leading contemporary proposals for budgetary reform.&lt;/li&gt;
+&lt;li&gt;Be able to meaningfully read and skilfully analyze budget documents.&lt;/li&gt;
+&lt;li&gt;Enhance the writing and analysis skills needed to be an active participant in the budgetary process.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;On the whole, the class is built on the idea that critical thinking and good judgment are essential to success both today and in the future. Many decisions involve money, and this class will help students think more effectively about the trade-offs behind policy decisions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

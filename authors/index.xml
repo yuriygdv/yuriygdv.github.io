@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Yuriy Davydenko</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a doctoral candidate in public policy analysis at the Andrew Young School of Policy Studies, Georgia State University and a research assistant with the Center of Professional Excellence at AYSPS GSU. As both an academic and applied research professional, I focus on various performance issues that arise in the public and nonprofit sectors. The areas of my scholarly and professional expertise include policy analysis and evaluation, performance measurement and accountability, public finance and budgeting, information technology and e-government. My professional interests also extend into quantitative research methods and data science. I teach courses in policy analysis, data analysis, and governmental budgeting.&lt;/p&gt;
+&lt;p&gt;As an applied researcher, I have worked on a range of research and technical assistance projects with state and local public agencies. I have been involved in research design, data collection, data analysis, and customer report development.&lt;/p&gt;
+&lt;p&gt;I earned my Master’s in Public Administration from the Andrew Young School of Policy Studies at Georgia State University in Atlanta, Georgia. I also have a Specialist in Management (equivalent to MBA) from Kyiv National Economic University, and a Specialist and Bachelor degrees in Electronic Engineering from Kyiv Polytechnic Institute.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

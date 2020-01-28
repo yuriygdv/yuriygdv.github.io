@@ -1,1 +1,0 @@
-# yuriygdv.github.io

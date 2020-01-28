@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Policy Analysis | Yuriy Davydenko</title>
+    <link>/tags/policy-analysis/</link>
+      <atom:link href="/tags/policy-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Policy Analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Policy Analysis</title>
+      <link>/tags/policy-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Intro to Policy Analysis</title>
+      <link>/teaching/policy-analysis-4061-internal/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/teaching/policy-analysis-4061-internal/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;“U.S. Supreme Court Justice Potter Stewart famously commented in his concurring opinion in Jacobellis v. Ohio (1964) that it was unlikely he could ever intelligibly define hard-core pornography, “but I know it when I see it.” Public policy is like that; an intuitive concept that is maddeningly difficult to precisely define.“&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“there is general agreement that public policy includes the process of making choices and the outcomes or actions of particular decisions; that what makes public policy “public” is that these choices or actions are backed by the coercive powers of the state; and that at its core, public policy is a response to a perceived problem.” —Smith &amp;amp; Larimer, 2009&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This is an introductory course covering basic concepts and principles of policy analysis. The purpose of this course is to provide a foundation in the theory, process, and presentation of policy analysis. The course will familiarize students with 1) policy analysis as a profession 2) the conceptual foundations of the rationales for public policy 3) a systematic approach to addressing policy problems 3) analytical techniques for policy analysis.&lt;/p&gt;
+&lt;p&gt;At the end of the course, students should be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;think critically and systematically about public policy&lt;/li&gt;
+&lt;li&gt;understand how to identify and frame policy problems&lt;/li&gt;
+&lt;li&gt;understand how to organize policy analysis&lt;/li&gt;
+&lt;li&gt;understand the characteristics of different policy alternatives&lt;/li&gt;
+&lt;li&gt;apply analytical techniques for solving policy problems&lt;/li&gt;
+&lt;li&gt;understand limitations of policy analysis&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
